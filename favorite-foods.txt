@@ -1,3 +1,5 @@
 pizza
 chicken
 french fries
+chicken tenders
+ice cream
