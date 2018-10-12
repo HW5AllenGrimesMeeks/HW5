@@ -1,3 +1,5 @@
-pizza, grain
-chicken, meat
-french fries, potato
+pizza
+chicken
+french fries
+chicken tenders
+ice cream
