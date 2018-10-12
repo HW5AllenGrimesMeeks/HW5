@@ -1,5 +1,5 @@
-pizza
-chicken
-french fries
-chicken tenders
-ice cream
+pizza            [Pie]
+chicken          [Meat]
+french fries     [Fried vegetable]
+chicken tenders  [Meat]
+ice cream        [Desert]
