@@ -2,4 +2,4 @@ pizza
 chicken
 french fries
 chicken tenders
-icecream
+ice cream
