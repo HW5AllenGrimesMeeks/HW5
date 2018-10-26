@@ -3,3 +3,4 @@
 3. french fries     [Fried vegetable]
 4. chicken tenders  [Meat]
 5. ice cream        [Desert]
+6. Salade           [Fried vegetable]
